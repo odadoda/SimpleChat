@@ -1,0 +1,11 @@
+body {
+	font-family: verdana, helvetica, sans-serif;
+}
+section{
+	width: 250px;
+	margin: 0 auto;
+}
+
+input {
+	padding: 5px;
+}
